@@ -1,0 +1,12 @@
+.header{
+    background-color: coral;
+    border: 0.1rem solid black;
+}
+.main{
+    background-color: aqua;
+    border: 0.1rem solid black;
+}
+.body{
+    background-color: gray;
+    border: 0.1rem solid black;
+}
